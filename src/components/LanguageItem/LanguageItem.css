@@ -1,0 +1,13 @@
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 600px) {
+    button{
+      /* flex: 100%; */
+      width: 50vh;
+      justify-content:center;
+      align-items: center;
+      display: flex;
+    }
+  }
+  
+  /* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+ 

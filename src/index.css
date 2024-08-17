@@ -1,0 +1,29 @@
+html{
+  width: 100%;
+  height: 100%;
+  }
+  body{
+    margin: 0;
+    height: 100%;
+    width:100%;
+    
+  }
+  :root{
+    width: 100%;
+    height: 100%;
+    background-image: url(./assets/pattern-background-desktop-dark.svg);
+    background-repeat: no-repeat;
+    background-color:#313e51;
+    background-size: cover;  
+    
+  }
+  #app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+    h1{
+    margin: 0;
+    font-weight: unset;
+  }
+  

@@ -1,0 +1,13 @@
+main{
+    padding:20px;
+    width: 60%;
+    height: 550px;
+    display:flex;
+    /* background-color: grey; */
+} @media screen and (max-width: 600px) {
+    .main{
+     flex-direction: column;
+     display:flex;
+     
+    }
+  }

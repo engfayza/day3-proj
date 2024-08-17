@@ -1,0 +1,24 @@
+#LanguageWrpper{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+
+}
+#LanguageWrpper >button{
+    height: 70px;
+    background-color: #3c4d67;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    padding-left: 25px;
+}
+#LanguageWrpper img{
+background-color: aliceblue;
+border-radius: 5px;
+}
